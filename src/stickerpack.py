@@ -1,0 +1,5 @@
+import random as rdm
+#STICKER : The coin | random
+numbers = [1,2,3,4,5,6,7,8]
+stickers_TheCoin = ['CAACAgIAAxkBAAEVXphityf1q4lnOJcnDxK2ygG-wjDsOAACrwwAAlgEQEqbddU7Rqpi_CkE','CAACAgIAAxkBAAEVXppityf6HGOS-kxQ7wSDJ4qKjRfDggACvgkAAoSumEoSQwToTbAzsikE','CAACAgIAAxkBAAEVXpxityf9Qr640bQvzo8SsyVmZd5QjgACrwoAAjwemUraj0_BcrJUAAEpBA','CAACAgIAAxkBAAEVXp5itygEvccFLYdpV2l-e4qE4fUi_QACfQwAAsoPQEpP5RyRY3qVaikE','CAACAgIAAxkBAAEVXqJitygLHytFJEYLa6enOclDVT25BAACNgsAApyimEptn_MQ9fwBaSkE','CAACAgIAAxkBAAEVXqZitygREPFwrkmIahb7vLTO4RGfJwACdggAAhZxWEorWjAPqlLmxCkE','CAACAgIAAxkBAAEVXqhitygXnIMvjp641rXfOYSCbMyxtQACmQsAAvXfyErxxuFzQ5qV6SkE','CAACAgIAAxkBAAEVXqpitygaPK1rbAFuZNT_Pkn7LHWWjwACuwwAAsAlIEvB92_tPWcZjSkE','CAACAgIAAxkBAAEVXqxitygdJapObFwN_HOR75PYKoxArwAChwwAAvLaKEskd9-ZMiZZ4SkE']
+the_coin = rdm.choice(numbers)
