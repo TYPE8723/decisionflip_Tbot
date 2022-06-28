@@ -5,7 +5,7 @@ import random as rdm
 import sys
 
 #API_KEY = os.getenv('API_KEY')
-API_KEY = '5186277488:AAE83Ut14jRI0HYMJZD1mM3O94yN01qcXb8'
+API_KEY = ''
 
 data = {}
 QR_request_text_id = 0
